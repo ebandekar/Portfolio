@@ -157,15 +157,10 @@ a:hover {
   width: 50%;
 }
 
-.tab-contents ul li {
-  list-style: none;
+.tab-contents table,td,th {
+  border: 1px solid;
   margin: 10px 0;
-}
-
-.tab-contents ul li span {
-  color: #b54769;
-  font-size: 14px;
-  margin: 5px 0;
+  padding:10px
 }
 
 .tab-contents {
